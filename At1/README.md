@@ -1,1 +1,2 @@
-Esse é um código da página bootstrap senac americana, salvo no repositório
+Esse é um código da página bootstrap SENAC Americana, salvo no repositório
+Atividade que foi passada é para criar um site com o modelo pronto que está no figma, link: https://www.figma.com/design/oOFBBoa0AtyXowgB7qnFWD/Iniciativa-Bootstrap?node-id=0-1&t=pwWtEyXxKdEok7WT-1
